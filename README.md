@@ -7,4 +7,4 @@ The technological topic of the competition is changed annually, and this year it
 My team JBM won the local round in Athens and so we had the chance to participate to the final round
 in Munich.
 
-More information about this competition: [url=https://eestechchallenge.eestec.net/#/]EestecChallenge2019[/url]
+More information about this competition: <a title="EestecChallenge2019" href="https://eestechchallenge.eestec.net/#/">EestecChallenge2019</a>
