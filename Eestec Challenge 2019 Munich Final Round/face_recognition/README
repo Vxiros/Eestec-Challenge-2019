@@ -1,0 +1,21 @@
+Face recognition programm
+
+Basen on ageitgey's project:
+Github link: https://github.com/ageitgey/face_recognition
+
+Writers:
+Filippou Michail
+Xenias Dimitris
+Xiros Vasileios
+
+This is a face recognition programm that detects the faces in a photo.The only requirement is that the database of the portraits (known directory) must includes the photo of the students.Thes you run the ./run.sh (before that you have to run the 'chmod +x run.sh' command at the /face_recognition repository.Then your webcamera is going to take a pboto for a second and then you are going to see the names of the people who are in the foto and also are included to 'known' directory.
+
+
+
+REQUIREMENTS:
+face_recognition_models
+Click>=6.0
+dlib>=19.3.0
+numpy
+Pillow
+scipy>=0.17.0
